@@ -1,4 +1,4 @@
-# JIRA/GitHub management IRCBot
+JIRA/GitHub management IRCBot
 
 [![Build Status](https://ci.jenkins.io/job/Infra/job/ircbot/job/main/badge/icon)](https://ci.jenkins.io/job/Infra/job/ircbot/job/main/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/jenkinsciinfra/ircbot)](https://hub.docker.com/r/jenkinsciinfra/ircbot)
