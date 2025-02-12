@@ -6,7 +6,7 @@
     <groupId>org.jenkins-ci</groupId>
     <artifactId>jenkins</artifactId>
     <version>1.103</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <artifactId>ircbot</artifactId>
@@ -128,7 +128,7 @@
     <dependency>
       <groupId>com.github.spotbugs</groupId>
       <artifactId>spotbugs-annotations</artifactId>
-      <version>4.7.3</version>
+      <version>4.9.0</version>
     </dependency>
 
     <!-- testing dependencies -->
